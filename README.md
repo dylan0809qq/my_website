@@ -1,6 +1,6 @@
-﻿# 徐敦宥 - 個人投資組合網站
+﻿# 徐敦宥 - 個人介紹網站
 
-一個現代化的個人投資組合網站，專為展示大學生作品和學習經歷而設計。
+一個現代化的個人介紹網站，展示作品和學習經歷而設計。
 
 ## 關於我
 
@@ -20,7 +20,6 @@
 
 1. 確保您有 Python 或 Node.js 安裝
 2. 在專案目錄中運行：
-   `ash
    # 使用 Python
    python -m http.server 8000
    
@@ -35,7 +34,6 @@
 2. 將所有文件上傳到倉庫
 3. 在倉庫設定中啟用 GitHub Pages
 4. 選擇 main 分支作為來源
-5. 您的網站將在 https://[您的用戶名].github.io/[倉庫名稱] 上線
 
 ## 自訂內容
 
@@ -64,8 +62,8 @@
 
 ## 聯絡方式
 
-- Email: your.email@example.com
-- GitHub: github.com/yourusername
+- Email: dylanxu0809@gmail.com
+
 
 ---
 
